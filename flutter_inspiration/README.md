@@ -15,3 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Screenshot
+
+![Screenshot 1](https://raw.githubusercontent.com/eskye/Flutter-20-days-challenge/master/Screenshots/Day%201/Screenshot_1592043467.png)
+![Screenshot 2](https://raw.githubusercontent.com/eskye/Flutter-20-days-challenge/master/Screenshots/Day%201/Screenshot_1592043494.png)
