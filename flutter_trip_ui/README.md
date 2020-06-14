@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-<img src="https://raw.githubusercontent.com/eskye/Flutter-20-days-challenge/master/Screenshots/Day%202/Screenshot_1592156838.png" width="300"> | <img src="https://raw.githubusercontent.com/eskye/Flutter-20-days-challenge/master/Screenshots/Day%202/Screenshot_1592156846.png" width="300"> | <img src="https://raw.githubusercontent.com/eskye/Flutter-20-days-challenge/master/Screenshots/Day%202/Screenshot_1592156853.png" width="300"> 
+<img src="https://raw.githubusercontent.com/eskye/Flutter-20-days-challenge/master/Screenshots/Day%202/Screenshot_1592156838.png" width="200"> | <img src="https://raw.githubusercontent.com/eskye/Flutter-20-days-challenge/master/Screenshots/Day%202/Screenshot_1592156846.png" width="200"> | <img src="https://raw.githubusercontent.com/eskye/Flutter-20-days-challenge/master/Screenshots/Day%202/Screenshot_1592156853.png" width="200"> 
