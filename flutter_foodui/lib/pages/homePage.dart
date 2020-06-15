@@ -80,10 +80,10 @@ class _HomePageState extends State<HomePage> {
                 child: ListView(
                   scrollDirection: Axis.horizontal,
                   children: <Widget>[
-                    FadeAnimation(2, makeItem(image: 'assets/images/two.jpg')),
-                    FadeAnimation(2, makeItem(image: 'assets/images/three.jpg')),
-                    FadeAnimation(2, makeItem(image: 'assets/images/four.jpg')),
-                    FadeAnimation(2, makeItem(image: 'assets/images/five.jpg')),
+                    FadeAnimation(1.4, makeItem(image: 'assets/images/two.jpg')),
+                    FadeAnimation(1.5, makeItem(image: 'assets/images/three.jpg')),
+                    FadeAnimation(1.6, makeItem(image: 'assets/images/four.jpg')),
+                    FadeAnimation(1.7, makeItem(image: 'assets/images/five.jpg')),
                   ],
                 ),
               ),
